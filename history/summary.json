@@ -4,19 +4,19 @@
     "url": "http://3.35.62.51",
     "icon": "https://icons.duckduckgo.com/ip3/3.35.62.51.ico",
     "slug": "krima-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 582,
-    "timeDay": 592,
-    "timeWeek": 582,
-    "timeMonth": 582,
-    "timeYear": 582,
+    "status": "up",
+    "uptime": "98.41%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.41%",
+    "time": 555,
+    "timeDay": 507,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
     "dailyMinutesDown": {
-      "2026-07-22": 0
+      "2026-07-22": 92
     }
   },
   {
@@ -24,17 +24,19 @@
     "url": "http://3.35.62.51/up/",
     "icon": "https://icons.duckduckgo.com/ip3/3.35.62.51.ico",
     "slug": "krima-health-check",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 389,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.41%",
+    "uptimeDay": "93.65%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.41%",
+    "time": 354,
+    "timeDay": 329,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
+    "dailyMinutesDown": {
+      "2026-07-22": 91
+    }
   }
 ]
