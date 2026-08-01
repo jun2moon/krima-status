@@ -1,11 +1,11 @@
 owner: jun2moon
-repo: krima-status # (만약 아까 저장소 이름을 다르게 적으셨다면 그 이름으로 바꿔주세요)
+repo: krima-status 
 
 sites:
   - name: KRIMA Website
-    url: http://3.35.62.51
+    url: https://military.co.kr
   - name: KRIMA Health Check
-    url: http://3.35.62.51/up/
+    url: https://military.co.kr/up/
     expectedStatusCode: 200
 
 status-website:
