@@ -2,8 +2,6 @@ owner: jun2moon
 repo: krima-status 
 
 sites:
-  - name: KRIMA Website
-    url: https://military.co.kr
   - name: KRIMA Health Check
     url: https://military.co.kr/up/
     expectedStatusCode: 200
